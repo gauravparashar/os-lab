@@ -1,3 +1,4 @@
+#Use of Shell command line parameters
 #!/bin/sh
 echo "Name of the script is : $0"
 echo $1

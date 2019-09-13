@@ -1,3 +1,4 @@
+#Write a shell script to copy the file from one place to another. Also, see whether the file is correctly copied or not
 #!/bin/sh
 if [ $# -ne 2 ]; then
         echo "Error: You should supply exactly 2 parameters only."
